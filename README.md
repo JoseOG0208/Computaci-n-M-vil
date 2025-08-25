@@ -1,2 +1,2 @@
-# Computaci-n-M-vil
+# Computacion-Movil
 Talleres Computación Móvil
